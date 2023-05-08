@@ -1,0 +1,79 @@
+@startuml
+' APRESENTAÇÃO {{{
+title Casos de Uso: Aeroclube
+'left to right direction
+'}}}
+' ESTILOS {{{
+'}}}
+' ATORES {{{
+at_pi as :Piloto: << sócio >>
+at_in as :Instrutor: << sócio >>
+at_ae as :Aeroclube: << objeto >>
+at_al as :Aluno: << sócio >>
+'}}}
+' CASOS DE USO {{{
+uc_1 as (Cadastrar no sistema,\ncom usuário e senha)
+uc_2 as (Inserir formação adicional\nde instrutor)
+uc_3 as (Registra nome do curso)
+uc_4 as (Registra data de obtenção\ndo diploma)
+uc_5 as (Registra instituição)
+uc_6 as (Inclui registro de todas saídas) 
+uc_7 as (Contabiliza horas para\nobtenção do brevê)
+uc_8 as (Comprova horas número\nmínimo de horas de vôo)
+uc_9 as (Emissão do brevê)
+uc_10 as (Emita parecer de habilidades práticas)
+uc_11 as (Apresente parecer de habilidades práticas)
+uc_12 as (consulta relatório)
+uc_13 as (imprime relatório)
+uc_14 as (Aponta total de horas de vôo por instrutor)
+uc_15 as (Aponta lista de cursos)
+uc_16 as (Aponta registros de saídas\nde vôos dos alunos com\ntotalizador de horas)
+'}}}
+' RELACIONAMENTOS {{{
+at_ae -- at_pi
+at_ae -- at_in
+at_ae -- at_al
+at_pi -- uc_1
+at_in -- uc_1
+at_al -- uc_1
+uc_2 -- at_in
+'at_in -- uc_3
+'at_in -- uc_4
+'at_in -- uc_5
+
+ uc_3 <.. uc_2 : //include//
+uc_4 <.. uc_2 : //include//
+uc_5 <.. uc_2 : //include//
+'uc_1 --> uc_2 : [ se não ]\n//extend//
+'uc_1 --> uc_3 : [ se sim ]\n//extend//
+
+at_al -- uc_6
+at_in -- uc_6
+uc_6 ..> uc_7 : //include//
+
+at_al - uc_8
+at_ae -- uc_9
+at_pi -- uc_9
+uc_8 .> uc_9 : [ se sim ]\n//extend//
+at_in -- uc_10
+at_al -- uc_11
+uc_10 ..> uc_11 : [ se sim ]\n//extend//
+uc_11 ..> uc_9 : [ se sim ]\n//extend//
+
+at_al -- uc_12
+at_al -- uc_13
+'at_in -- uc_14
+'at_al -- uc_14
+'at_al -- uc_15
+'at_al -- uc_16
+
+uc_12 ..> uc_14 : [ se sim ]\n//extend//
+uc_12 ..> uc_15 : [ se sim ]\n//extend//
+uc_12 ..> uc_16 : [ se sim ]\n//extend//
+
+
+uc_13 ..> uc_14 : [ se sim ]\n//extend//
+uc_13 ..> uc_15 : [ se sim ]\n//extend//
+uc_13 ..> uc_16 : [ se sim ]\n//extend//
+'}}}
+@enduml

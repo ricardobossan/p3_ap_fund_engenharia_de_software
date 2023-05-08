@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="878px" preserveAspectRatio="none" style="width:1703px;height:878px;" version="1.1" viewBox="0 0 1703 878" width="1703px" zoomAndPan="magnify"><defs><filter height="300%" id="fv8a923quxfjg" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="183" x="753.87" y="16.0928">Casos de Uso: Aeroclube</text><!--MD5=[91c756ced65dccf8e42586c643439ffe]
+entity at_pi--><ellipse cx="1540" cy="337.9844" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M1540,345.9844 L1540,372.9844 M1527,353.9844 L1553,353.9844 M1540,372.9844 L1527,387.9844 M1540,372.9844 L1553,387.9844 " fill="none" filter="url(#fv8a923quxfjg)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="1522.5" y="406.001">Piloto</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="45" x="1517.5" y="325.0391">«sócio»</text><!--MD5=[9b12fe33e3dafa31d605c69487369eec]
+entity at_in--><ellipse cx="1150" cy="337.9844" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M1150,345.9844 L1150,372.9844 M1137,353.9844 L1163,353.9844 M1150,372.9844 L1137,387.9844 M1150,372.9844 L1163,387.9844 " fill="none" filter="url(#fv8a923quxfjg)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="1123.5" y="406.001">Instrutor</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="45" x="1127.5" y="325.0391">«sócio»</text><!--MD5=[2acaf6efa79e2bcf137dc912d2c2c312]
+entity at_ae--><ellipse cx="921" cy="179.9844" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M921,187.9844 L921,214.9844 M908,195.9844 L934,195.9844 M921,214.9844 L908,229.9844 M921,214.9844 L934,229.9844 " fill="none" filter="url(#fv8a923quxfjg)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="892" y="248.001">Aeroclube</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="51" x="895.5" y="167.0391">«objeto»</text><!--MD5=[ec3de141acaacfdcd4f8bd3f7b9e76fc]
+entity at_al--><ellipse cx="850" cy="337.9844" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M850,345.9844 L850,372.9844 M837,353.9844 L863,353.9844 M850,372.9844 L837,387.9844 M850,372.9844 L863,387.9844 " fill="none" filter="url(#fv8a923quxfjg)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="832" y="406.001">Aluno</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="45" x="827.5" y="325.0391">«sócio»</text><ellipse cx="1539.7506" cy="548.8334" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="103.7506" ry="25.811" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="1472.2506" y="544.3608">Cadastrar no sistema,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="1475.7506" y="560.3227">com usuário e senha</text><ellipse cx="1149.9882" cy="202.8201" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="119.4882" ry="26.2976" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="1069.9882" y="198.3474">Inserir formação adicional</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="1111.9882" y="214.3094">de instrutor</text><ellipse cx="907.9558" cy="52.5136" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="87.9558" ry="19.9912" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="838.8141" y="55.1025">Registra nome do curso</text><ellipse cx="1149.8037" cy="52.6832" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="118.8037" ry="26.1607" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="1070.8037" y="48.2105">Registra data de obtenção</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="1114.3037" y="64.1725">do diploma</text><ellipse cx="1383.1649" cy="52.6554" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="78.6649" ry="18.133" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="1322.1649" y="56.1637">Registra instituição</text><ellipse cx="1295.0799" cy="549.0384" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="105.5799" ry="23.516" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="1206.5799" y="551.5741">Inclui registro de todas saídas</text><ellipse cx="1347.1235" cy="704.352" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="108.1235" ry="25.8295" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1276.6235" y="699.8794">Contabiliza horas para</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="1291.6235" y="715.8413">obtenção do brevê</text><ellipse cx="255.9117" cy="465.3799" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="115.4117" ry="25.8574" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="180.4117" y="460.9072">Comprova horas número</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="182.9117" y="476.8691">mínimo de horas de vôo</text><ellipse cx="338.7598" cy="849.4744" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="72.7598" ry="16.952" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="285.2598" y="852.9827">Emissão do brevê</text><ellipse cx="1029.1719" cy="549.0568" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="125.6719" ry="27.5344" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220" x="919.1719" y="551.5925">Emita parecer de habilidades práticas</text><ellipse cx="1067.0988" cy="704.7422" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="136.5988" ry="29.7198" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="243" x="945.5988" y="707.2779">Apresente parecer de habilidades práticas</text><ellipse cx="459.8052" cy="548.7835" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="74.3052" ry="17.261" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="404.3052" y="552.2918">consulta relatório</text><ellipse cx="705.144" cy="549.0513" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="73.144" ry="17.0288" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="651.144" y="552.5596">imprime relatório</text><ellipse cx="269.943" cy="704.4111" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="139.943" ry="30.3886" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="250" x="144.943" y="706.9467">Aponta total de horas de vôo por instrutor</text><ellipse cx="809.8403" cy="704.4905" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="85.3403" ry="19.4681" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="742.9299" y="707.3547">Aponta lista de cursos</text><ellipse cx="567.1719" cy="704.4905" fill="#FEFECE" filter="url(#fv8a923quxfjg)" rx="122.1719" ry="36.9681" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="486.1719" y="692.0369">Aponta registros de saídas</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="494.6719" y="707.9988">de vôos dos alunos com</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="505.1719" y="723.9607">totalizador de horas</text><!--MD5=[93f9ca0dba698d128de5f9d3a17d7d50]
+link at_ae to at_pi--><path d="M950.32,221.7925 C967.95,231.7925 991.14,243.7925 1013,251.5225 C1201.25,318.0725 1442.54,349.1325 1517.06,357.5725 " fill="none" id="at_ae-at_pi" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[27e9e6a678b30aee2a8dd82f40463422]
+link at_ae to at_in--><path d="M950.47,224.0925 C995.29,254.6225 1079.92,312.2825 1123.13,341.7225 " fill="none" id="at_ae-at_in" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a861915bd2fe04b1b7c4fefb6e43d7f9]
+link at_ae to at_al--><path d="M899.31,251.6725 C890.58,270.8525 880.54,292.9225 871.8,312.1225 " fill="none" id="at_ae-at_al" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[61e13597ed255b933fe663a20a2f0903]
+link at_pi to uc_1--><path d="M1540,409.9225 C1540,445.8725 1540,493.6925 1540,522.5925 " fill="none" id="at_pi-uc_1" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[1a8d06031c0807958bafd698e7fd58d9]
+link at_in to uc_1--><path d="M1176.81,374.8025 C1242.12,405.9525 1410.15,486.0925 1492.74,525.4825 " fill="none" id="at_in-uc_1" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[ba2afc3cb42ab0922e16db743e453345]
+link at_al to uc_1--><path d="M872.58,368.5825 C939.57,388.0125 1143.13,446.6325 1313,491.5225 C1364.14,505.0325 1422.01,519.4225 1466.51,530.3025 " fill="none" id="at_al-uc_1" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f0b0f1ae8ff0ce718b805b6552ec15ae]
+link uc_2 to at_in--><path d="M1150,229.7825 C1150,252.1125 1150,285.0025 1150,312.1525 " fill="none" id="uc_2-at_in" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[4fa02673942ef4c06eaa7468d711ea0c]
+reverse link uc_3 to uc_2--><path d="M942.66,74.7925 C987.05,102.0325 1063.81,149.1325 1110.44,177.7525 " fill="none" id="uc_3-backto-uc_2" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="938.67,71.7325,944.2583,79.8424,942.9346,74.3426,948.4345,73.019,938.67,71.7325" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="37" x="1022" y="121.145">include</text><!--MD5=[bec7ab60411a1be94c26fd44e62295c4]
+reverse link uc_4 to uc_2--><path d="M1150,84.6625 C1150,111.8225 1150,150.7525 1150,176.2125 " fill="none" id="uc_4-backto-uc_2" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="1150,79.7125,1146,88.7125,1150,84.7125,1154,88.7125,1150,79.7125" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="37" x="1151" y="121.145">include</text><!--MD5=[fbddeffb5c72fcd7eebcb72a6c97acc8]
+reverse link uc_5 to uc_2--><path d="M1352.2,73.1525 C1309.96,100.0725 1234.12,148.4125 1188.28,177.6225 " fill="none" id="uc_5-backto-uc_2" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="1356.17,69.9825,1346.4305,71.4461,1351.9535,72.6696,1350.7299,78.1926,1356.17,69.9825" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="37" x="1295" y="121.145">include</text><!--MD5=[51f5b6371ab8c06f81d3751e24f34e06]
+link at_al to uc_6--><path d="M872.78,373.6125 C919.92,397.3525 1031.85,452.5725 1129,491.5225 C1163.61,505.4025 1203.11,518.9325 1234.89,529.2725 " fill="none" id="at_al-uc_6" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[181c85469042e75e259464236d547de1]
+link at_in to uc_6--><path d="M1176.93,396.5725 C1206.25,434.1825 1252.3,493.2425 1277.34,525.3725 " fill="none" id="at_in-uc_6" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[eedba600880d5e9d1aaf8639f7def608]
+link uc_6 to uc_7--><path d="M1302.67,572.6725 C1311.66,599.2125 1326.6,643.3025 1336.62,672.8725 " fill="none" id="uc_6-to-uc_7" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="1338.43,677.2225,1339.3078,667.4128,1336.8146,672.4906,1331.7368,669.9974,1338.43,677.2225" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="37" x="1325" y="626.645">include</text><!--MD5=[9fd76d550e54e9f2d8641973ae30f46c]
+link at_al to uc_8--><path d="M827.08,365.9825 C748.4,379.5525 486.51,424.7425 346.35,448.9325 " fill="none" id="at_al-uc_8" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[cff8a1a50574e85afc47af6741de0edc]
+link at_ae to uc_9--><path d="M891.59,205.8525 C734.98,215.9625 6,267.9725 6,360.0225 C6,360.0225 6,360.0225 6,705.5225 C6,817.8325 167.9,843.0425 265.92,848.0225 " fill="none" id="at_ae-uc_9" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[92b21c9d4821158bbf83eae51e2ed4cb]
+link at_pi to uc_9--><path d="M1562.69,379.2525 C1606.77,414.9525 1696.74,500.0725 1662,576.5225 C1615.87,678.0425 1575.45,697.4925 1473,741.5225 C1280.64,824.1925 630.65,843.3025 411.69,847.4425 " fill="none" id="at_pi-uc_9" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[6e49ce3bfea72db15ff6cdab5abdfa4d]
+link uc_8 to uc_9--><path d="M225.78,490.8025 C168.73,539.6725 55.72,652.7725 112,741.5225 C147.51,797.5225 221.04,824.7525 274.82,837.6325 " fill="none" id="uc_8-to-uc_9" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="279.62,838.9825,271.755,833.0544,274.749,837.854,269.9494,840.848,279.62,838.9825" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="124" y="619.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="130.5" y="633.9668">extend</text><!--MD5=[fb4ff02520ce37dd60b4da1f863ed6e0]
+link at_in to uc_10--><path d="M1123.15,403.3025 C1099.68,439.3725 1066.32,490.6525 1046.25,521.5025 " fill="none" id="at_in-uc_10" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[be0517f4c05fe2a2518a4ebd9da9aa71]
+link at_al to uc_11--><path d="M847.8,409.6325 C847.88,455.7325 854.08,525.9025 886,576.5225 C914.97,622.4725 967.22,656.4225 1008.15,677.6025 " fill="none" id="at_al-uc_11" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b709df0fe749ee457a8604b0f8771712]
+link uc_10 to uc_11--><path d="M1035.62,576.7625 C1041.95,602.3425 1051.53,641.0525 1058.44,668.9625 " fill="none" id="uc_10-to-uc_11" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="1059.88,673.7425,1061.598,664.0446,1058.6774,668.8892,1053.8328,665.9687,1059.88,673.7425" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="1051" y="619.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="1057.5" y="633.9668">extend</text><!--MD5=[c151d11041ae0150cc720f1f6f9176d5]
+link uc_11 to uc_9--><path d="M977.58,727.1525 C956.44,732.0625 933.96,737.1225 913,741.5225 C728.25,780.3125 508.54,819.2925 402.5,837.6525 " fill="none" id="uc_11-to-uc_9" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="397.61,838.6725,407.1567,841.0935,402.538,837.8272,405.8043,833.2086,397.61,838.6725" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="756" y="784.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="762.5" y="798.9668">extend</text><!--MD5=[9d4effb846ab13d66ca0dec226195a7e]
+link at_al to uc_12--><path d="M827.06,372.9625 C760.69,404.6225 568.33,496.3525 491.88,532.8225 " fill="none" id="at_al-uc_12" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f558186d5dee5e7d4bfb5091e8f48a6a]
+link at_al to uc_13--><path d="M827.02,391.4925 C796.04,431.2425 741.94,500.6325 717.55,531.9225 " fill="none" id="at_al-uc_13" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[414253a8154ffef8766390500aa9ff54]
+link uc_12 to uc_14--><path d="M423.24,564.6625 C401.02,574.5425 372.85,588.9725 351,606.5225 C328.67,624.4525 308.05,649.3225 293.21,669.3825 " fill="none" id="uc_12-to-uc_14" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="289.75,673.1125,298.3001,668.2242,292.7087,669.0818,291.8511,663.4903,289.75,673.1125" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="352" y="619.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="358.5" y="633.9668">extend</text><!--MD5=[fd4e791dd4ca60ae4507e066b01fe3d0]
+link uc_12 to uc_15--><path d="M490.8,565.2525 C510.74,575.7225 536.83,590.5525 558,606.5225 C573.81,618.4425 572.72,627.8525 590,637.5225 C636.84,663.7425 655.62,651.9825 707,667.5225 C724.83,672.9125 744.16,679.4725 761.2,685.5125 " fill="none" id="uc_12-to-uc_15" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="765.42,687.3625,758.274,680.5849,760.7074,685.6916,755.6007,688.125,765.42,687.3625" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="591" y="619.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="597.5" y="633.9668">extend</text><!--MD5=[574e62b17e078a4381203450060ff0df]
+link uc_12 to uc_16--><path d="M440.8,566.3625 C422.05,584.3525 398.44,613.8625 414,637.5225 C426.26,656.1625 445.01,669.5525 465.24,679.1825 " fill="none" id="uc_12-to-uc_16" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="469.69,681.6725,463.1606,674.299,465.1406,679.5981,459.8416,681.578,469.69,681.6725" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="415" y="619.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="421.5" y="633.9668">extend</text><!--MD5=[29ccf782f7f533bbd8925868da5c4d2c]
+link uc_13 to uc_14--><path d="M644.06,558.6025 C601.57,566.4825 544.71,580.9725 500,606.5225 C482.81,616.3525 484.93,627.2425 468,637.5225 C437.99,655.7425 402.33,669.6225 369.6,679.8425 " fill="none" id="uc_13-to-uc_14" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="364.95,681.5825,374.7259,682.7794,369.732,680.1221,372.3893,675.1282,364.95,681.5825" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="501" y="619.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="507.5" y="633.9668">extend</text><!--MD5=[8f9d41571c5377d7f2c01128adfba437]
+link uc_13 to uc_15--><path d="M716.04,566.1625 C734.63,593.3425 772.27,648.3625 793.84,679.9025 " fill="none" id="uc_13-to-uc_15" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="797.16,683.7525,795.3731,674.0671,794.334,679.6277,788.7734,678.5886,797.16,683.7525" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="764" y="619.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="770.5" y="633.9668">extend</text><!--MD5=[e5549ed09092918612654b58d8b69d0f]
+link uc_13 to uc_16--><path d="M696.46,566.2325 C686.33,584.6325 668.24,615.0025 648,637.5225 C638.98,647.5525 628.37,657.3325 617.84,666.1525 " fill="none" id="uc_13-to-uc_16" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="614.34,669.8725,623.8264,667.2253,618.1951,666.6884,618.732,661.0571,614.34,669.8725" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="671" y="619.145">[ se sim ]</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="35" x="677.5" y="633.9668">extend</text><!--MD5=[48d52319205906ee3fc88cd6abbf84f1]
+@startuml
+' APRESENTAÇÃO {{{
+title Casos de Uso: Aeroclube
+'left to right direction
+'}}}
+' ESTILOS {{{
+'}}}
+' ATORES {{{
+at_pi as :Piloto: << sócio >>
+at_in as :Instrutor: << sócio >>
+at_ae as :Aeroclube: << objeto >>
+at_al as :Aluno: << sócio >>
+'}}}
+' CASOS DE USO {{{
+uc_1 as (Cadastrar no sistema,\ncom usuário e senha)
+uc_2 as (Inserir formação adicional\nde instrutor)
+uc_3 as (Registra nome do curso)
+uc_4 as (Registra data de obtenção\ndo diploma)
+uc_5 as (Registra instituição)
+uc_6 as (Inclui registro de todas saídas) 
+uc_7 as (Contabiliza horas para\nobtenção do brevê)
+uc_8 as (Comprova horas número\nmínimo de horas de vôo)
+uc_9 as (Emissão do brevê)
+uc_10 as (Emita parecer de habilidades práticas)
+uc_11 as (Apresente parecer de habilidades práticas)
+uc_12 as (consulta relatório)
+uc_13 as (imprime relatório)
+uc_14 as (Aponta total de horas de vôo por instrutor)
+uc_15 as (Aponta lista de cursos)
+uc_16 as (Aponta registros de saídas\nde vôos dos alunos com\ntotalizador de horas)
+'}}}
+' RELACIONAMENTOS {{{
+at_ae - - at_pi
+at_ae - - at_in
+at_ae - - at_al
+at_pi - - uc_1
+at_in - - uc_1
+at_al - - uc_1
+uc_2 - - at_in
+'at_in - - uc_3
+'at_in - - uc_4
+'at_in - - uc_5
+
+ uc_3 <.. uc_2 : //include//
+uc_4 <.. uc_2 : //include//
+uc_5 <.. uc_2 : //include//
+'uc_1 - -> uc_2 : [ se não ]\n//extend//
+'uc_1 - -> uc_3 : [ se sim ]\n//extend//
+
+at_al - - uc_6
+at_in - - uc_6
+uc_6 ..> uc_7 : //include//
+
+at_al - uc_8
+at_ae - - uc_9
+at_pi - - uc_9
+uc_8 .> uc_9 : [ se sim ]\n//extend//
+at_in - - uc_10
+at_al - - uc_11
+uc_10 ..> uc_11 : [ se sim ]\n//extend//
+uc_11 ..> uc_9 : [ se sim ]\n//extend//
+
+at_al - - uc_12
+at_al - - uc_13
+'at_in - - uc_14
+'at_al - - uc_14
+'at_al - - uc_15
+'at_al - - uc_16
+
+uc_12 ..> uc_14 : [ se sim ]\n//extend//
+uc_12 ..> uc_15 : [ se sim ]\n//extend//
+uc_12 ..> uc_16 : [ se sim ]\n//extend//
+
+
+uc_13 ..> uc_14 : [ se sim ]\n//extend//
+uc_13 ..> uc_15 : [ se sim ]\n//extend//
+uc_13 ..> uc_16 : [ se sim ]\n//extend//
+'}}}
+@enduml
+
+@startuml
+title Casos de Uso: Aeroclube
+at_pi as :Piloto: << sócio >>
+at_in as :Instrutor: << sócio >>
+at_ae as :Aeroclube: << objeto >>
+at_al as :Aluno: << sócio >>
+uc_1 as (Cadastrar no sistema,\ncom usuário e senha)
+uc_2 as (Inserir formação adicional\nde instrutor)
+uc_3 as (Registra nome do curso)
+uc_4 as (Registra data de obtenção\ndo diploma)
+uc_5 as (Registra instituição)
+uc_6 as (Inclui registro de todas saídas) 
+uc_7 as (Contabiliza horas para\nobtenção do brevê)
+uc_8 as (Comprova horas número\nmínimo de horas de vôo)
+uc_9 as (Emissão do brevê)
+uc_10 as (Emita parecer de habilidades práticas)
+uc_11 as (Apresente parecer de habilidades práticas)
+uc_12 as (consulta relatório)
+uc_13 as (imprime relatório)
+uc_14 as (Aponta total de horas de vôo por instrutor)
+uc_15 as (Aponta lista de cursos)
+uc_16 as (Aponta registros de saídas\nde vôos dos alunos com\ntotalizador de horas)
+at_ae - - at_pi
+at_ae - - at_in
+at_ae - - at_al
+at_pi - - uc_1
+at_in - - uc_1
+at_al - - uc_1
+uc_2 - - at_in
+
+ uc_3 <.. uc_2 : //include//
+uc_4 <.. uc_2 : //include//
+uc_5 <.. uc_2 : //include//
+
+at_al - - uc_6
+at_in - - uc_6
+uc_6 ..> uc_7 : //include//
+
+at_al - uc_8
+at_ae - - uc_9
+at_pi - - uc_9
+uc_8 .> uc_9 : [ se sim ]\n//extend//
+at_in - - uc_10
+at_al - - uc_11
+uc_10 ..> uc_11 : [ se sim ]\n//extend//
+uc_11 ..> uc_9 : [ se sim ]\n//extend//
+
+at_al - - uc_12
+at_al - - uc_13
+
+uc_12 ..> uc_14 : [ se sim ]\n//extend//
+uc_12 ..> uc_15 : [ se sim ]\n//extend//
+uc_12 ..> uc_16 : [ se sim ]\n//extend//
+
+
+uc_13 ..> uc_14 : [ se sim ]\n//extend//
+uc_13 ..> uc_15 : [ se sim ]\n//extend//
+uc_13 ..> uc_16 : [ se sim ]\n//extend//
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 07:25:05 BRT 2021)
+(MIT source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: pt
+Country: BR
+--></g></svg>
